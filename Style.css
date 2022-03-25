@@ -1,0 +1,106 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway&display=swap);
+
+
+body{ background-color: #E8DAb2
+
+}
+
+
+
+.cabecalho{ height: 100vh;
+            width: 100%;
+
+
+
+}
+
+.welcome{  position: relative; top: 50%;
+    padding-bottom: 20px; 
+           font-family: Raleway;
+           margin-left: 20px;
+          line-height: 25px;
+
+  
+}
+
+
+
+.welcome h3{ font-size: 26px;
+    
+            
+
+}
+.welcome h1{font-size: 52px;}
+
+.salsichinha{ height: 192px;
+            width: 370px;
+            position: absolute; top: 50%;
+            right: 0px; left: 70%;
+
+
+}
+
+.main{ background-color: white; 
+       width: 800px;
+       margin-left: 50%;
+       transform: translateX(-50%);
+       margin-bottom: -20px;
+       border-radius: 20px;
+       font-family: Raleway;
+       box-shadow: 5px 5px 5px 5px #888888;
+       border-bottom: none;
+       padding: 34px 24px 10px 24px;
+
+
+}
+
+
+
+
+
+.info{ text-align: center;
+    margin: 5px 15px 5px 5px;
+
+}
+.info h2{font-size: 30px;}
+.info ul{text-align: justify;}
+
+.hotdog{padding-top: 5px;
+    margin-left: 5px;
+    margin-left: 5px;
+    max-width: 760px;
+
+}
+
+
+.basset{
+
+}
+
+.plus{text-align:justify;
+    margin: 15px 15px 15px 15px;
+    margin-bottom: 5px;
+
+}
+iframe{width: 770px;
+    height: 350px;
+}
+
+
+
+.rodape{ background-color: #090909;
+    height: 50px;
+    position: absolute;
+    margin-bottom: 10;
+    width: 100%;
+    padding: 16px;
+   
+
+}
+.rodape h3{ color: white;
+    text-align: right;
+margin-top: 0;
+margin-right: 20px; }
+a{color: #35B1D2;}
+
+
